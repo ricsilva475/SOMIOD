@@ -1,0 +1,121 @@
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\FormSwitch.exe.config
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\FormSwitch.exe
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\FormSwitch.pdb
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\M2Mqtt.Net.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\RestSharp.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Buffers.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Memory.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Text.Json.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.ValueTuple.dll
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\RestSharp.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Buffers.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Memory.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Text.Json.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\bin\Debug\System.ValueTuple.xml
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.csproj.AssemblyReference.cache
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.FormSwitch.resources
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.Properties.Resources.resources
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.csproj.GenerateResource.cache
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.csproj.CopyComplete
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.exe
+C:\Users\rafael\Desktop\somiod-is-main\FormSwitch\obj\Debug\FormSwitch.pdb
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\FormSwitch.exe.config
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\FormSwitch.exe
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\FormSwitch.pdb
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Buffers.dll
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.ValueTuple.dll
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\RestSharp.xml
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Memory.xml
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\bin\Debug\System.Text.Json.xml
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.csproj.AssemblyReference.cache
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.FormSwitch.resources
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.Properties.Resources.resources
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.csproj.GenerateResource.cache
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CopyComplete
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.exe
+C:\Users\rafael\Desktop\estg\Integração de Sistemas\IS\FormSwitch\obj\Debug\FormSwitch.pdb
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\FormSwitch.exe.config
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\FormSwitch.exe
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\FormSwitch.pdb
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\RestSharp.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Memory.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\bin\Debug\System.Text.Json.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.FormSwitch.resources
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.exe
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\ESTG\IS\IS\FormSwitch\obj\Debug\FormSwitch.pdb
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\FormSwitch.exe.config
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\FormSwitch.exe
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\FormSwitch.pdb
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\RestSharp.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Memory.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\bin\Debug\System.Text.Json.xml
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.FormSwitch.resources
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.exe
+C:\Users\ASUS\OneDrive\Ambiente de Trabalho\projetoIS\IS\FormSwitch\obj\Debug\FormSwitch.pdb
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\FormSwitch.exe.config
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\FormSwitch.exe
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\FormSwitch.pdb
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Buffers.dll
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.ValueTuple.dll
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\RestSharp.xml
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Memory.xml
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\bin\Debug\System.Text.Json.xml
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.csproj.AssemblyReference.cache
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.FormSwitch.resources
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.Properties.Resources.resources
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.csproj.GenerateResource.cache
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.csproj.CopyComplete
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.exe
+C:\Users\Eduardo Lopes\Desktop\IS\IS Projeto\IS\FormSwitch\obj\Debug\FormSwitch.pdb

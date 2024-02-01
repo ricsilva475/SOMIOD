@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FormLightBulb.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Topic" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">data</Value>
+    </Setting>
+    <Setting Name="BrokerIp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="ApiBaseUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44342/</Value>
+    </Setting>
+    <Setting Name="CustomApiError" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">422</Value>
+    </Setting>
+    <Setting Name="ApplicationName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lighting</Value>
+    </Setting>
+    <Setting Name="ContainerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">light_bulb</Value>
+    </Setting>
+    <Setting Name="SubscriptionName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sub1</Value>
+    </Setting>
+    <Setting Name="Subscription_Event" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CREATE</Value>
+    </Setting>
+    <Setting Name="Endpoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

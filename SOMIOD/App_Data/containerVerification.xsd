@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="container" type="container"/>
+
+	<xs:complexType name="container">
+		<xs:sequence>
+			<xs:element name="id" type="xs:integer"/>
+			<xs:element name="name" type="xs:string"/>
+			<!--<xs:element name="creation_dt" type="dateFormat"/>-->
+			<xs:element name="parent" type="xs:string"/>
+		</xs:sequence>
+		<xs:attribute name="res_type" type="xs:string" use="required"/>
+	</xs:complexType>
+
+	<!--<xs:simpleType name="dateFormat">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[2-9][0-9][0-9][0-9]-[0-1][0-9]-[0-3][0-9] [0-2][0-9]:[0-5][0-9]:[0-5][0-9]"/>
+		</xs:restriction>
+	</xs:simpleType>-->
+
+</xs:schema>

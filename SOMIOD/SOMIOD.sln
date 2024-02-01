@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMIOD", "SOMIOD.csproj", "{6287FF74-D994-4FDC-8982-0E7A09810090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormSwitch", "..\FormSwitch\FormSwitch.csproj", "{93441894-3885-41DF-A8A6-3B29951AA694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLightBulb", "..\FormLightBulb\FormLightBulb.csproj", "{73C04FB1-A57E-49E5-92BF-E08726F4AFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6287FF74-D994-4FDC-8982-0E7A09810090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6287FF74-D994-4FDC-8982-0E7A09810090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6287FF74-D994-4FDC-8982-0E7A09810090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6287FF74-D994-4FDC-8982-0E7A09810090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93441894-3885-41DF-A8A6-3B29951AA694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93441894-3885-41DF-A8A6-3B29951AA694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93441894-3885-41DF-A8A6-3B29951AA694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93441894-3885-41DF-A8A6-3B29951AA694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C04FB1-A57E-49E5-92BF-E08726F4AFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C04FB1-A57E-49E5-92BF-E08726F4AFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C04FB1-A57E-49E5-92BF-E08726F4AFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C04FB1-A57E-49E5-92BF-E08726F4AFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81866FF-F322-41C9-94E7-757092161174}
+	EndGlobalSection
+EndGlobal
